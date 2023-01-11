@@ -393,9 +393,10 @@ img {
 
 .discount__img {
   width: 300px;
-  position: absolute;
+  position: initial;
   top: 4rem;
   right: -11rem;
+  padding: 10px;
 }
 
 /*=============== PRODUCTS ===============*/
